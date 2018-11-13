@@ -1,0 +1,385 @@
+Joe has : Ad, 10c, 7s, Kc, 5h
+Jane has : Ah, As, 4d, 2h, Jd
+Jane books Ah and As
+Joe asks, Do you have a A?
+Jane says, Go Fish
+Joe draws Jc
+Joe has : Ad, 10c, 7s, Kc, 5h, Jc
+Joe has : 0 books; 
+
+Jane's turn
+Jane asks, Do you have a 4?
+Joe says, Go Fish
+Jane draws Kd
+Jane has : 4d, 2h, Jd, Kd
+Jane has : 1 books; AhAs
+
+Joe's turn
+Joe asks, Do you have a A?
+Jane says, Go Fish
+Joe draws 2d
+Joe has : Ad, 10c, 7s, Kc, 5h, Jc, 2d
+Joe has : 0 books; 
+
+Jane's turn
+Jane asks, Do you have a 4?
+Joe says, Go Fish
+Jane draws 9h
+Jane has : 4d, 2h, Jd, Kd, 9h
+Jane has : 1 books; AhAs
+
+Joe's turn
+Joe asks, Do you have a A?
+Jane says, Go Fish
+Joe draws 9d
+Joe has : Ad, 10c, 7s, Kc, 5h, Jc, 2d, 9d
+Joe has : 0 books; 
+
+Jane's turn
+Jane asks, Do you have a 4?
+Joe says, Go Fish
+Jane draws 9s
+Jane booked 9h and 9s
+Jane has : 4d, 2h, Jd, Kd
+Jane has : 2 books; AhAs, 9h9s
+
+Joe's turn
+Joe asks, Do you have a A?
+Jane says, Go Fish
+Joe draws 7h
+Joe booked 7s and 7h
+Joe has : Ad, 10c, Kc, 5h, Jc, 2d, 9d
+Joe has : 1 books; 7s7h
+
+Jane's turn
+Jane asks, Do you have a 4?
+Joe says, Go Fish
+Jane draws 4h
+Jane booked 4d and 4h
+Jane has : 2h, Jd, Kd
+Jane has : 3 books; AhAs, 9h9s, 4d4h
+
+Joe's turn
+Joe asks, Do you have a A?
+Jane says, Go Fish
+Joe draws Qd
+Joe has : Ad, 10c, Kc, 5h, Jc, 2d, 9d, Qd
+Joe has : 1 books; 7s7h
+
+Jane's turn
+Jane asks, Do you have a 2?
+Joe says, Yes I have a 2
+Jane booked 2h and 2d
+Jane has : Jd, Kd
+Jane has : 4 books; AhAs, 9h9s, 4d4h, 2h2d
+
+Joe's turn
+Joe asks, Do you have a A?
+Jane says, Go Fish
+Joe draws 5s
+Joe booked 5h and 5s
+Joe has : Ad, 10c, Kc, Jc, 9d, Qd
+Joe has : 2 books; 7s7h, 5h5s
+
+Jane's turn
+Jane asks, Do you have a J?
+Joe says, Yes I have a 11
+Jane booked Jd and Jc
+Jane has : Kd
+Jane has : 5 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc
+
+Joe's turn
+Joe asks, Do you have a A?
+Jane says, Go Fish
+Joe draws 8d
+Joe has : Ad, 10c, Kc, 9d, Qd, 8d
+Joe has : 2 books; 7s7h, 5h5s
+
+Jane's turn
+Jane asks, Do you have a K?
+Joe says, Yes I have a 13
+Jane booked Kd and Kc
+Jane has : 
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a A?
+Jane says, Go Fish
+Joe draws 5d
+Joe has : Ad, 10c, 9d, Qd, 8d, 5d
+Joe has : 2 books; 7s7h, 5h5s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Yes I have a 1
+Jane has : Ad
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a 10?
+Jane says, Go Fish
+Joe draws 2c
+Joe has : 10c, 9d, Qd, 8d, 5d, 2c
+Joe has : 2 books; 7s7h, 5h5s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws Qh
+Jane has : Ad, Qh
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a 10?
+Jane says, Go Fish
+Joe draws Qc
+Joe booked Qd and Qc
+Joe has : 10c, 9d, 8d, 5d, 2c
+Joe has : 3 books; 7s7h, 5h5s, QdQc
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws Jh
+Jane has : Ad, Qh, Jh
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a 10?
+Jane says, Go Fish
+Joe draws 8h
+Joe booked 8d and 8h
+Joe has : 10c, 9d, 5d, 2c
+Joe has : 4 books; 7s7h, 5h5s, QdQc, 8d8h
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 2s
+Jane has : Ad, Qh, Jh, 2s
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a 10?
+Jane says, Go Fish
+Joe draws 7d
+Joe has : 10c, 9d, 5d, 2c, 7d
+Joe has : 4 books; 7s7h, 5h5s, QdQc, 8d8h
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 10s
+Jane has : Ad, Qh, Jh, 2s, 10s
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a 10?
+Jane says, Yes I have a 10
+Joe booked 10c and 10s
+Joe has : 9d, 5d, 2c, 7d
+Joe has : 5 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws Kh
+Jane has : Ad, Qh, Jh, 2s, Kh
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a 9?
+Jane says, Go Fish
+Joe draws 5c
+Joe booked 5d and 5c
+Joe has : 9d, 2c, 7d
+Joe has : 6 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 8s
+Jane has : Ad, Qh, Jh, 2s, Kh, 8s
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a 9?
+Jane says, Go Fish
+Joe draws 6c
+Joe has : 9d, 2c, 7d, 6c
+Joe has : 6 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 3h
+Jane has : Ad, Qh, Jh, 2s, Kh, 8s, 3h
+Jane has : 6 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc
+
+Joe's turn
+Joe asks, Do you have a 9?
+Jane says, Go Fish
+Joe draws 3d
+Joe has : 9d, 2c, 7d, 6c, 3d
+Joe has : 6 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws Js
+Jane booked Jh and Js
+Jane has : Ad, Qh, 2s, Kh, 8s, 3h
+Jane has : 7 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs
+
+Joe's turn
+Joe asks, Do you have a 9?
+Jane says, Go Fish
+Joe draws 3s
+Joe booked 3d and 3s
+Joe has : 9d, 2c, 7d, 6c
+Joe has : 7 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 6h
+Jane has : Ad, Qh, 2s, Kh, 8s, 3h, 6h
+Jane has : 7 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs
+
+Joe's turn
+Joe asks, Do you have a 9?
+Jane says, Go Fish
+Joe draws 9c
+Joe booked 9d and 9c
+Joe has : 2c, 7d, 6c
+Joe has : 8 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 7c
+Jane has : Ad, Qh, 2s, Kh, 8s, 3h, 6h, 7c
+Jane has : 7 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs
+
+Joe's turn
+Joe asks, Do you have a 2?
+Jane says, Yes I have a 2
+Joe booked 2c and 2s
+Joe has : 7d, 6c
+Joe has : 9 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 8c
+Jane booked 8s and 8c
+Jane has : Ad, Qh, Kh, 3h, 6h, 7c
+Jane has : 8 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c
+
+Joe's turn
+Joe asks, Do you have a 7?
+Jane says, Yes I have a 7
+Joe booked 7d and 7c
+Joe has : 6c
+Joe has : 10 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s, 7d7c
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 6d
+Jane booked 6h and 6d
+Jane has : Ad, Qh, Kh, 3h
+Jane has : 9 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c, 6h6d
+
+Joe's turn
+Joe asks, Do you have a 6?
+Jane says, Go Fish
+Joe draws 6s
+Joe booked 6c and 6s
+Joe has : 
+Joe has : 11 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s, 7d7c, 6c6s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws Ks
+Jane booked Kh and Ks
+Jane has : Ad, Qh, 3h
+Jane has : 10 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c, 6h6d, KhKs
+
+Joe's turn
+Joe asks, Do you have a 7?
+Jane says, Go Fish
+Joe draws 4c
+Joe has : 4c
+Joe has : 11 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s, 7d7c, 6c6s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws Qs
+Jane booked Qh and Qs
+Jane has : Ad, 3h
+Jane has : 11 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c, 6h6d, KhKs, QhQs
+
+Joe's turn
+Joe asks, Do you have a 4?
+Jane says, Go Fish
+Joe draws 10h
+Joe has : 4c, 10h
+Joe has : 11 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s, 7d7c, 6c6s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws Ac
+Jane booked Ad and Ac
+Jane has : 3h
+Jane has : 12 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c, 6h6d, KhKs, QhQs, AdAc
+
+Joe's turn
+Joe asks, Do you have a 4?
+Jane says, Go Fish
+Joe draws 3c
+Joe has : 4c, 10h, 3c
+Joe has : 11 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s, 7d7c, 6c6s
+
+Jane's turn
+Jane asks, Do you have a 3?
+Joe says, Yes I have a 3
+Jane booked 3h and 3c
+Jane has : 
+Jane has : 13 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c, 6h6d, KhKs, QhQs, AdAc, 3h3c
+
+Joe's turn
+Joe asks, Do you have a 4?
+Jane says, Go Fish
+Joe draws 4s
+Joe booked 4c and 4s
+Joe has : 10h
+Joe has : 12 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s, 7d7c, 6c6s, 4c4s
+
+Jane's turn
+Jane asks, Do you have a A?
+Joe says, Go Fish
+Jane draws 10d
+Jane has : 10d
+Jane has : 13 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c, 6h6d, KhKs, QhQs, AdAc, 3h3c
+
+Joe's turn
+Joe asks, Do you have a 10?
+Jane says, Yes I have a 10
+Joe booked 10h and 10d
+Joe has : 
+Joe has : 13 books; 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s, 7d7c, 6c6s, 4c4s, 10h10d
+
+Jane's turn
+Jane asks, Do you have a A?
+No cards in the deck. 
+Jane has : 
+Jane has : 13 books; AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c, 6h6d, KhKs, QhQs, AdAc, 3h3c
+
+
+Joe's books : 7s7h, 5h5s, QdQc, 8d8h, 10c10s, 5d5c, 3d3s, 9d9c, 2c2s, 7d7c, 6c6s, 4c4s, 10h10d
+Jane's books: AhAs, 9h9s, 4d4h, 2h2d, JdJc, KdKc, JhJs, 8s8c, 6h6d, KhKs, QhQs, AdAc, 3h3c
+Jane and Joe tie with an equal amount of books.
